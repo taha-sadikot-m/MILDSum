@@ -1,0 +1,70 @@
+This is a sample legal judgment for testing the workflow.
+
+IN THE HIGH COURT OF JAMMU AND KASHMIR
+
+Case No: WP(C) 456/2022
+Date: 15th March 2023
+
+M/s XYZ Industries vs State of Jammu & Kashmir
+
+JUDGMENT
+
+The petitioner company has filed this writ petition seeking quashment of the 
+government order dated 28.12.2015 which withdrew permission for changing 
+arc furnace to induction furnace.
+
+FACTS:
+
+The petitioner is a company incorporated under the Companies Act running a 
+casting unit at Bari Brahmana, Jammu. It manufactures M.S Ingots and allied 
+products. The petitioner was sanctioned power load of 2250 KVA for manufacture 
+of Ferro Alloys vide Government Order dated 18.10.1995.
+
+From 2007-08, the working of the unit became erratic due to non-availability 
+of chromite ore from Orissa. The petitioner approached the Power Development 
+Department seeking permission to replace the existing arc furnace with induction 
+furnace as it is more environment friendly and less burdening on the power 
+supply system.
+
+LEGAL ISSUES:
+
+1. Whether the government order imposing ban on new power connections can be 
+   applied retrospectively to existing connections?
+
+2. Whether changing from arc furnace to induction furnace amounts to seeking 
+   fresh power connection?
+
+ARGUMENTS:
+
+The petitioner argued that it never applied for fresh power connection as the 
+power connection was already sanctioned in 1995. The case was only for seeking 
+permission for change of machinery.
+
+The respondent argued that the order of ban covers all cases including change 
+of activity from arc furnace to induction furnace.
+
+REASONING:
+
+The court observed that though the power connection was granted in 1995, once 
+a subsequent government order specifically provides that it supersedes all 
+previous orders, the earlier connection loses its significance.
+
+The court held that shifting from arc furnace to electric induction furnace 
+would amount to granting fresh power connection which conflicts with the ban 
+imposed vide government order dated 03.03.2010.
+
+CONCLUSION:
+
+The petition is dismissed. The court found that retrospective operation of a 
+government order cannot be permitted particularly where it is merely an 
+executive order and not legislation.
+
+The petitioner cannot question the order after accepting it for 12 years and 
+is estopped under law to question the same at such belated stage.
+
+ORDER:
+
+The writ petition is dismissed. No costs.
+
+(Justice ABC)
+Judge
